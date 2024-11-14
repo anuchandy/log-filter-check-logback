@@ -1,0 +1,93 @@
+17:25:51 [main] I o.e.logfilter.Main   - Example log from Main
+17:25:51 [main] I o.e.logfilter.Main   - {"az.sdk.message":"In main()"}
+17:25:51 [main] D r.util.Loggers       - Using Slf4j logging framework
+17:25:51 [main] E r.c.p.Operators      - Operator called default onErrorDropped
+reactor.core.Exceptions$ErrorCallbackNotImplemented: java.lang.RuntimeException: ...err...
+Caused by: java.lang.RuntimeException: ...err...
+	at org.example.logfilter.Main$1.call(Main.java:23)
+	at org.example.logfilter.Main$1.call(Main.java:20)
+	at reactor.core.publisher.MonoCallable.subscribe(MonoCallable.java:57)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4491)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4606)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4319)
+	at org.example.logfilter.Main$FrameWork.callme(Main.java:36)
+	at org.example.logfilter.Main.main(Main.java:20)
+17:27:21 [main] I o.e.logfilter.Main   - Example log from Main
+17:27:22 [main] I o.e.logfilter.Main   - {"az.sdk.message":"In main()"}
+17:27:22 [main] D r.util.Loggers       - Using Slf4j logging framework
+17:27:22 [main] E r.c.p.Operators      - Operator called default onErrorDropped
+reactor.core.Exceptions$ErrorCallbackNotImplemented: java.lang.RuntimeException: ...err...
+Caused by: java.lang.RuntimeException: ...err...
+	at org.example.logfilter.Main$1.call(Main.java:23)
+	at org.example.logfilter.Main$1.call(Main.java:20)
+	at reactor.core.publisher.MonoCallable.subscribe(MonoCallable.java:57)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4491)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4606)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4319)
+	at org.example.logfilter.Main$FrameWork.callme(Main.java:36)
+	at org.example.logfilter.Main.main(Main.java:20)
+17:28:33 [main] I o.e.logfilter.Main   - Example log from Main
+17:28:33 [main] I o.e.logfilter.Main   - {"az.sdk.message":"In main()"}
+17:28:33 [main] D r.util.Loggers       - Using Slf4j logging framework
+17:28:33 [main] E r.c.p.Operators      - Operator called default onErrorDropped
+reactor.core.Exceptions$ErrorCallbackNotImplemented: java.lang.RuntimeException: ...err...
+Caused by: java.lang.RuntimeException: ...err...
+	at org.example.logfilter.Main$1.call(Main.java:23)
+	at org.example.logfilter.Main$1.call(Main.java:20)
+	at reactor.core.publisher.MonoCallable.subscribe(MonoCallable.java:57)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4491)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4606)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4319)
+	at org.example.logfilter.Main$FrameWork.callme(Main.java:36)
+	at org.example.logfilter.Main.main(Main.java:20)
+17:31:13 [main] I o.e.logfilter.Main   - Example log from Main
+17:31:13 [main] I o.e.logfilter.Main   - {"az.sdk.message":"In main()"}
+17:31:13 [main] D r.util.Loggers       - Using Slf4j logging framework
+17:31:13 [main] E r.c.p.Operators      - Operator called default onErrorDropped
+reactor.core.Exceptions$ErrorCallbackNotImplemented: java.lang.RuntimeException: ...err...
+Caused by: java.lang.RuntimeException: ...err...
+	at org.example.logfilter.Main$1.call(Main.java:23)
+	at org.example.logfilter.Main$1.call(Main.java:20)
+	at reactor.core.publisher.MonoCallable.subscribe(MonoCallable.java:57)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4491)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4606)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4319)
+	at org.example.logfilter.Main$FrameWork.callme(Main.java:36)
+	at org.example.logfilter.Main.main(Main.java:20)
+17:31:29 [main] I o.e.logfilter.Main   - Example log from Main
+17:31:29 [main] I o.e.logfilter.Main   - {"az.sdk.message":"In main()"}
+17:31:29 [main] D r.util.Loggers       - Using Slf4j logging framework
+17:31:29 [main] E r.c.p.Operators      - Operator called default onErrorDropped
+reactor.core.Exceptions$ErrorCallbackNotImplemented: java.lang.RuntimeException: ...err...
+Caused by: java.lang.RuntimeException: ...err...
+	at org.example.logfilter.Main$1.call(Main.java:23)
+	at org.example.logfilter.Main$1.call(Main.java:20)
+	at reactor.core.publisher.MonoCallable.subscribe(MonoCallable.java:57)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4491)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4606)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4319)
+	at org.example.logfilter.Main$FrameWork.callme(Main.java:36)
+	at org.example.logfilter.Main.main(Main.java:20)
+17:31:47 [main] I o.e.logfilter.Main   - Example log from Main
+17:31:47 [main] I o.e.logfilter.Main   - {"az.sdk.message":"In main()"}
+17:31:47 [main] D r.util.Loggers       - Using Slf4j logging framework
+17:31:47 [main] E r.c.p.Operators      - Operator called default onErrorDropped
+reactor.core.Exceptions$ErrorCallbackNotImplemented: java.lang.RuntimeException: ...err...
+Caused by: java.lang.RuntimeException: ...err...
+	at org.example.logfilter.Main$1.call(Main.java:23)
+	at org.example.logfilter.Main$1.call(Main.java:20)
+	at reactor.core.publisher.MonoCallable.subscribe(MonoCallable.java:57)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4491)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4606)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4319)
+	at org.example.logfilter.Main$FrameWork.callme(Main.java:36)
+	at org.example.logfilter.Main.main(Main.java:20)
+17:32:21 [main] I o.e.logfilter.Main   - Example log from Main
+17:32:21 [main] I o.e.logfilter.Main   - {"az.sdk.message":"In main()"}
+17:32:21 [main] D r.util.Loggers       - Using Slf4j logging framework
+17:32:29 [main] I o.e.logfilter.Main   - Example log from Main
+17:32:29 [main] I o.e.logfilter.Main   - {"az.sdk.message":"In main()"}
+17:32:29 [main] D r.util.Loggers       - Using Slf4j logging framework
+17:34:14 [main] I o.e.logfilter.Main   - Example log from Main
+17:34:14 [main] I o.e.logfilter.Main   - {"az.sdk.message":"In main()"}
+17:34:14 [main] D r.util.Loggers       - Using Slf4j logging framework
